@@ -14,8 +14,8 @@ Overview:
     admin credentials.
 
 Bug report:
-    None, but if you anything, else the bypass finally gets patched and will no
-    longer work, please leave a pull-request.
+    None, but if you find anything, or if this bypass method finally gets patched 
+    and no longer works, please leave a pull-request.
 
 
 
